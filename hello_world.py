@@ -21,3 +21,7 @@ elif what == '*':
     print('Результат = ', c)
 else:
     print('выбранное неверное действие')
+    
+    # new add
+    
+    print('Today is saturday but i learn github((')
